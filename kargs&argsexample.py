@@ -15,12 +15,22 @@
 
 
 
-def sum(**kwargs):
+# def sum(**kwargs):
+#     sum = 0
+#     for i in kwargs.values():
+#         sum = sum + i
+#         print(sum)
+
+# sum(a=20,b=20)
+# sum(a=10,b=20,c=30)
+# sum(a=10,b=20,c=30,d=40)
+
+
+def sum(*args):
     sum = 0
-    for i in kwargs.values():
-        sum = sum + i
+    for items in args:
+        sum = sum + 1
         print(sum)
 
-sum(a=20,b=20)
-sum(a=10,b=20,c=30)
-sum(a=10,b=20,c=30,d=40)
+nums = [20 , 30]
+sum(*nums)
