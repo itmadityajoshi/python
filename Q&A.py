@@ -27,7 +27,7 @@
 # elif( num%2 ==0):
 #     print("num is divisble by 2")
 
-# elif(num%5!=0 and num%2!=0):
+# else(num%5!=0 and num%2!=0):
 #     print("not idivisble by 5 and 2")
 
     

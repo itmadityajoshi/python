@@ -1,0 +1,28 @@
+Meta Data:
+Meta data is data about the data or documentation about the information which is required by
+the users. In data warehousing, metadata is one of the essential aspects. For example, a table of
+content and the index of book may be treated metadata for the book.
+Key features of metadata:
+ The location and descriptions of warehouse systems and components.
+ Names, definitions, structures, and content of data-warehouse and end-users views.
+ Identification of authoritative data sources.
+ Integration and transformation rules used to populate data.
+ Subscription information for information delivery to analysis subscription.
+ Metrics used to analyze warehouse usage and performance.
+ Security authorizations, access control list, etc.Need for Data Warehousing
+Data Warehouse is needed for the following reasons:
+Business User: Business users require a data warehouse to view summarized data from the
+past. Since these people are non-technical, the data may be presented to them in an
+elementary form.
+Store historical data: Data Warehouse is required to store the time variable data from the
+past. This input is made to be used for various purposes.
+Make strategic decisions: Some strategies may be depending upon the data in the data
+warehouse. So, data warehouse contributes to making strategic decisions.
+For data consistency and quality: Bringing the data from different sources at a
+commonplace, the user can effectively undertake to bring the uniformity and consistency
+in data.
+High response time: Data warehouse has to be ready for somewhat unexpected loads and
+types of queries, which demands a significant degree of flexibility and quick response time.
+Trends in Data Warehousing
+Since, their early iteration, in 1980s, Datawarehouses are now faster, more powerful and in
+the cloud. And hasn’t chang
