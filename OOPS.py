@@ -7,7 +7,7 @@
 
 class school():
     schoolName = "Dursikshya"
-    Courge = "web Development"
+    Course = "web Development"
     def reveiw(self):
         print("It is a nice school")
 
