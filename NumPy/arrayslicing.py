@@ -9,5 +9,7 @@ print(arr)
 print(arr[1,0:2])
 
 
-# arr=np.array([[[1,2,3],[4,5,6]],[[7,8,9],[12,11,12]]]) print 8,9
+arr=np.array([[[1,2,3],[4,5,6]],[[7,8,9],[12,11,12]]])
+print(arr)
 
+print(arr[1,0,:2])
